@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task16</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+</resources>
